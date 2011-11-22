@@ -10,7 +10,7 @@ authors:
 requires:
 - core/1.3: [Class,Class.Extras]
 
-provides: [Placeholder]
+provides: [H5Placeholder]
 
 ...
 */
