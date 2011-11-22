@@ -1,0 +1,10 @@
+.placeholder{
+    position:absolute;
+    margin-left:3px;
+    color:#aaa;    
+    display:block;
+}
+
+.placeholded {
+    background-color:transparent;
+}

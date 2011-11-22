@@ -1,0 +1,13 @@
+Class: Placeholder {#Placeholder}
+=======================
+
+Placeholder Method: constructor {#Placeholder:constructor}
+----------------------------------------------
+
+### Syntax
+	var cls = new Placeholder([options]);
+
+### Arguments
+1. options (see options)
+
+### Options
